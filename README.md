@@ -1,4 +1,4 @@
-Here is an implementation of RAG with UI by using (Verba)[https://pypi.org/project/goldenverba/]
+Here is an implementation of RAG by using [Verba](https://pypi.org/project/goldenverba/)
 
 # How to deploy with pip
 
